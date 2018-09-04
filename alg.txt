@@ -1,12 +1,13 @@
 manacher
 https://www.felix021.com/blog/read.php?2040
 
-ÓÃhashmap½µÊ±¼ä
-¿ìÂıÖ¸Õë
-Í·Î²Ö¸Õë
+ç”¨hashmapé™æ—¶é—´
+å¿«æ…¢æŒ‡é’ˆ
+å¤´å°¾æŒ‡é’ˆ
 
 scholarship
 https://sfsu.academicworks.com/opportunities/8621
 
 git branch
 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
+
